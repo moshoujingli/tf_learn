@@ -1,0 +1,6 @@
+.idea
+__pycache__
+MNIST_data
+model
+neural-style
+*.pyc
